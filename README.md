@@ -14,7 +14,7 @@ Visual Stusio Codeを使って、Ruby on railsの作成練習をするために�
 
 ## WEBrickを使ったアプリケーションの起動
 プロジェクトのルートに移動する。
->rails server
+<rails server>
 
 ローカルサーバー立ち上げ
 
@@ -31,3 +31,7 @@ http://localhost:3030 にアクセスした際、
 "/config/routes.rb" の設定を変更していない状態では、
 
 "/public/[ファイル名]" の情報がURLに表示される。
+
+## コントローラの作成
+【コントローラとは】
+
