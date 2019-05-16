@@ -26,7 +26,7 @@ Visual Stusio Codeを使って、Ruby on railsの作成練習をするために�
 [Ctrl] + [c]で起動停止できる。
 
 ## 静的コンテンツの表示
-"http://localhost:3030"にアクセスした際、
+http://localhost:3030 にアクセスした際、
 
 "/config/routes.rb"の設定を変更していない状態では、
 
