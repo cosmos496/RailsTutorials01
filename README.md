@@ -2,8 +2,10 @@
 Visual Stusio Codeを使って、Ruby on railsの作成練習をするために作成
 
 ## アプリケーションの作成
->> rails new (プロジェクト名)  // オーソドックスな作成方法。DBはSQLite3を使用
->> rails new (プロジェクト名) -d mysql // -d を付けると使用するDBを変更できる。
+>> rails new (プロジェクト名)
+// オーソドックスな作成方法。DBはSQLite3を使用
+>> rails new (プロジェクト名) -d mysql
+// -d を付けると使用するDBを変更できる。
 
 *↑実行が終わると自動的にbundle installが開始される。
 
