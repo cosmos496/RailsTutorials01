@@ -14,7 +14,7 @@ Visual Stusio Codeを使って、Ruby on railsの作成練習をするために�
 
 ## WEBrickを使ったアプリケーションの起動
 プロジェクトのルートに移動する。
-<rails server>
+>rails server
 
 ローカルサーバー立ち上げ
 
