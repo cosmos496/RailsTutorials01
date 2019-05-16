@@ -14,9 +14,13 @@ Visual Stusio Codeを使って、Ruby on railsの作成練習をするために�
 
 ## WEBrickを使ったアプリケーションの起動
 プロジェクトのルートに移動する。
->rails server    // ローカルサーバー立ち上げ
+>rails server
 
-http://localhost:3000/   // ブラウザでURLにアクセス
+ローカルサーバー立ち上げ
+
+>http://localhost:3000/
+
+ブラウザでURLにアクセス
 [Ctrl] + [c]で起動停止できる。
 
 ## 静的コンテンツの表示
