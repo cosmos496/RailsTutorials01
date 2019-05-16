@@ -21,6 +21,7 @@ Visual Stusio Codeを使って、Ruby on railsの作成練習をするために�
 >http://localhost:3000/
 
 ブラウザでURLにアクセス
+
 [Ctrl] + [c]で起動停止できる。
 
 ## 静的コンテンツの表示
