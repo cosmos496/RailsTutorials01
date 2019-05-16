@@ -22,7 +22,10 @@ Visual Stusio Codeを使って、Ruby on railsの作成練習をするために�
 
 ブラウザでURLにアクセス
 
+
 [Ctrl] + [c]で起動停止できる。
 
 ## 静的コンテンツの表示
-"http://localhost:3030"にアクセスした際、"/config/routes.rb"の設定を変更していない状態では、"/public/[ファイル名]"の情報がURLに表示される。
+"http://localhost:3030"にアクセスした際、
+"/config/routes.rb"の設定を変更していない状態では、
+"/public/[ファイル名]"の情報がURLに表示される。
