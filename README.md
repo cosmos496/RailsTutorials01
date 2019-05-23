@@ -1,7 +1,6 @@
 # Ruby on Rails Tutorial No.01
 Visual Stusio Codeを使って、Ruby on railsの作成練習をするために作成  
-https://www.javadrive.jp/rails/  
-を参照して作成  
+https://www.javadrive.jp/rails/ を参照して作成  
 
 ## アプリケーションの作成
 ```
@@ -26,12 +25,12 @@ http://localhost:3000/
 
 ## 静的コンテンツの表示
 http://localhost:3030 にアクセスした際、  
-"/config/routes.rb" の設定を変更していない状態では、  
-"/public/[ファイル名]" の情報がURLに表示される。  
+__"/config/routes.rb"__ の設定を変更していない状態では、  
+__"/public/[ファイル名]"__ の情報がURLに表示される。  
 
 ## コントローラの作成
 ```
 rails generate controller コントローラ名  
 ```
-"/app/controllers/[コントローラ名]_controller.rb" が新たに作成される。  
-コントローラの中に関数を作成後、 "/config/routes.rb" を変更する。  
+__"/app/controllers/[コントローラ名]_controller.rb"__ が新たに作成される。  
+コントローラの中に関数を作成後、 __"/config/routes.rb"__ を変更する。  
