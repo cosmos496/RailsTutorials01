@@ -1,6 +1,5 @@
 class MainCtrlController < ApplicationController
     def index
-        
     end
 
     def login
