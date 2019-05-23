@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
-  root :to => 'main_ctrl#index'
+  root 'main_ctrl#index'
   get 'login' => 'main_ctrl#login'
     # ↑
     # "https://www.javadrive.jp/rails/ini/index4.html" では
