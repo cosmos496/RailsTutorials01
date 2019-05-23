@@ -32,5 +32,5 @@ __"/public/[ファイル名]"__ の情報がURLに表示される。
 ```
 rails generate controller コントローラ名  
 ```
-__"/app/controllers/[コントローラ名]_controller.rb"__ が新たに作成される。  
+__"/app/controllers/[コントローラ名]\_controller.rb"__ が新たに作成される。  
 コントローラの中に関数を作成後、 __"/config/routes.rb"__ を変更する。  
